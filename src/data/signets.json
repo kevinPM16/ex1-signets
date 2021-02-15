@@ -1,50 +1,50 @@
 [
   {
     "titre": "Javascript",
-    "couleur": 19.95,
+    "couleur": "red",
     "id": "signet001",
-    "date": "05 Janvier 2021"
+    "dateModif": "05 Janvier 2021"
   },
   {
     "titre": "HTML",
-    "couleur": 9.55,
+    "couleur":"red",
     "id": "signet002",
-    "date": "06 Janvier 2021"
+    "dateModif": "06 Janvier 2021"
   },
   {
     "titre": "React",
-    "couleur": 24.95,
+    "couleur": "red",
     "id": "signet003",
-    "date": "05 Janvier 2021"
+    "dateModif": "05 Janvier 2021"
   },
   {
     "titre": "C#",
-    "couleur": 12.95,
+    "couleur": "red",
     "id": "signet004",
-    "date": "05 Janvier 2021"
+    "dateModif": "05 Janvier 2021"
   },
   {
     "titre": "Cadriciels",
-    "couleur": 19.50,
+    "couleur": "red",
     "id": "signet005",
-    "date": "10 Janvier 2021"
+    "dateModif": "10 Janvier 2021"
   },
   {
     "titre": "CSS",
-    "couleur": 13.99,
+    "couleur": "red",
     "id": "signet006",
-    "date": "08 Janvier 2021"
+    "dateModif": "08 Janvier 2021"
   },
   {
     "titre": "Unity",
-    "couleur": 9.55,
+    "couleur": "red",
     "id": "signet007",
-    "date": "05 Janvier 2021"
+    "dateModif": "05 Janvier 2021"
   },
   {
     "titre": "Firebase",
-    "couleur": 9.55,
+    "couleur":"red",
     "id": "signet008",
-    "date": "05 Janvier 2021"
+    "dateModif": "05 Janvier 2021"
   }
 ]

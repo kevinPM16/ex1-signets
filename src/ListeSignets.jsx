@@ -1,7 +1,8 @@
-import './Appli.scss';
-import signet from './signet';
+import './ListeSignets.scss';
+import Signet from './Signet.jsx';
+import tabSignets from './data/signets.json';
 
-export default function Appli() {
+export default function ListeSignets() {
   return (
     <div className="ListeProduits">
     <ul>
@@ -9,7 +10,7 @@ export default function Appli() {
         structure obtenue du fichier JSON des produits */}
       
       {tabSignets.map(sig => 
-       <Signet etatSignet={sig.etatSignet} key={sig.id} titre={sig.titre} id={prd.id} couleur={sig.couleur} date={sig.date} />
+       <Signet etatSignet={sig.etatSignet} key={sig.id} titre={sig.titre} id={sig.id} couleur={sig.couleur} dateModif={sig.dateModif} />
       )}
     </ul>
   </div>
